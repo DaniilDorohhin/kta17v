@@ -1,0 +1,22 @@
+body {
+	color:#000000;
+	background-color:#0072C6;
+	margin:0;
+}
+ 
+#container {
+	background-color:#0000;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+ img {
+	border:solid;
+	border-radius: 50%;
+	
+}
+#gray {
+	filter: grayscale(100);
+	}
+	d
